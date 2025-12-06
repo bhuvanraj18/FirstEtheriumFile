@@ -132,7 +132,7 @@ These confirm correct validation and behavior.
 ---
 
 ## Project Structure
-
+```
 my-tokens
 contracts/
 MyToken.sol
@@ -144,7 +144,7 @@ tokeninfo.png
 Transfer_event.png
 events.png
 edgecase_revert.png
-
+```
 ---
 
 ## Conclusion
